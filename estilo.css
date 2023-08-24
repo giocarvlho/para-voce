@@ -1,0 +1,27 @@
+#conteudo {
+    background-color: #c490ffcc;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding: 10px;
+    text-align: center;
+    font-family: sans-serif;
+  }
+
+  .btn {
+    background: black;
+    color: white;
+    border: none;
+    padding: 10px;
+    BORDER-RADIUS: 8PX;
+  }
+
+.big {
+    font-size: 25px;
+}
+
+.tiny{
+    font-size: 15px;
+}
